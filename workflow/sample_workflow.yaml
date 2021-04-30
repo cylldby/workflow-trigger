@@ -1,0 +1,8 @@
+main:
+  params: [args]
+  steps:
+    - step1:
+        assign:
+          - OutputVar: ${args.message + "!"}
+    - step2:
+        return: ${OutputVar}
