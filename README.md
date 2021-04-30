@@ -1,6 +1,6 @@
 # Trigger GCP workflows from eventarc
 
-![Solution diagram](bin/diagram0.png "Solution schema")
+![Solution diagram](bin/diagram.png?raw=true "Solution schema")
 
 This repository offers a way to launch a GCP Cloud Workflows instance from an Eventarc trigger.
 
